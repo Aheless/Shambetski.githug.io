@@ -7,7 +7,7 @@ I am married and I have two children.
  
 ## Experience
 
-Individual entrepreneur. I was in the auto part retail business. My responsibilities included: 
+Individual entrepreneur. I was in the auto parts retail business. My responsibilities included: 
 work with suppliers, to form an assortment list of goods, work with clients on the implementation of applications and selling of goods.  
 
 ```markdown
