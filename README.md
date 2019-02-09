@@ -1,11 +1,11 @@
-## Welcome to my portfolio page!
+# Welcome to my portfolio page!
+
+## About me
 
 My name is Mikhail! I am 36 years old. I was born and live now in the town of Oshmyany Grodno region.
 I am married and I have two children.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Experience
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
