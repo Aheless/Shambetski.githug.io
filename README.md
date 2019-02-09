@@ -14,6 +14,13 @@ work with suppliers, to form an assortment list of goods, work with clients on t
 
 The Academy of Public Administration under the aegis of the President of the Republic of Belarus. Public administration and economy. Foreign economic activity.
 
+#### Skills
+
+1. Analytical mind.
+2. Diligence, perseverance, purposefulness.
+3.
+
+
 ```markdown
 Syntax highlighted code block
 
