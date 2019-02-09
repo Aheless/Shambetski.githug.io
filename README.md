@@ -17,9 +17,15 @@ The Academy of Public Administration under the aegis of the President of the Rep
 #### Skills
 
 1. Analytical mind.
-2. Diligence, perseverance, purposefulness.
-3.
-
+2. Diligence. 
+3. Perseverance. 
+4. Purposefulness.
+5. Orderliness.
+6. Creativity.
+7. Ability to cope with large volumes of work.
+8. Quick assimilation of new information.
+9. Ability to work in a team.
+10. Stress resistance.
 
 ```markdown
 Syntax highlighted code block
