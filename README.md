@@ -1,6 +1,7 @@
 ## Welcome to my portfolio page!
 
-My name is Mikhail! I was born and live now in the town of Oshmyany Grodno region. 
+My name is Mikhail! I am 36 years old. I was born and live now in the town of Oshmyany Grodno region.
+I am married and I have two children.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
