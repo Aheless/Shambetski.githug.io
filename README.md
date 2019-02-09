@@ -1,6 +1,6 @@
 ## Welcome to my portfolio page!
 
-You can use the [editor on GitHub](https://github.com/Aheless/Shambetski.githug.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Mikhail! I was born and live now in the town of Oshmyany Grodno region. in the You can use the [editor on GitHub](https://github.com/Aheless/Shambetski.githug.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
