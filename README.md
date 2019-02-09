@@ -10,6 +10,10 @@ I am married and I have two children.
 Individual entrepreneur. I was in the auto parts retail business. My responsibilities included: 
 work with suppliers, to form an assortment list of goods, work with clients on the implementation of applications and selling of goods.  
 
+### Education
+
+The Academy of Public Administration under the aegis of the President of the Republic of Belarus. Public administration and economy. Foreign economic activity.
+
 ```markdown
 Syntax highlighted code block
 
