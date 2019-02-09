@@ -27,7 +27,7 @@ The Academy of Public Administration under the aegis of the President of the Rep
 9. Ability to work in a team.
 10. Stress resistance.
 
-#####Interest
+#Interest
 
 I like to work hard, constantly develop, set ambitious goals and achieve them, getting better day by day. I am very hungry for new learning, communication and conquering new heights. I am very much interested in programming now and am learning a lot about it. I want to be a good programmer. In my free time I like to play hockey and tennis. I also like to listen to music and play guitar.
 
