@@ -2,12 +2,13 @@
 
 ## About me
 
-My name is Mikhail! I am 36 years old. I was born and live now in the town of Oshmyany Grodno region.
+My name is Mikhail. I am 36 years old. I was born and live now in the town of Oshmyany Grodno region.
 I am married and I have two children.
-
+ 
 ## Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Individual entrepreneur. I was in the auto part retail business. My responsibilities included: 
+work with suppliers, to form an assortment list of goods, work with clients on the implementation of applications and selling of goods.  
 
 ```markdown
 Syntax highlighted code block
